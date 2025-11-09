@@ -40,7 +40,7 @@ For item IDs and other information, see [REFERENCE.md](REFERENCE.md)
 ## Security
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-7%2F72-green)](https://www.virustotal.com/gui/file/f1987df10e0a9ff241e7ca319c92363ad89201f5e6f1e7222de95327e73e23f2/detection)
 [![MetaDefender](https://img.shields.io/badge/MetaDefender-0%2F30-blue)](https://metadefender.com/results/file/bzI1MTEwOVh2UWttQTRQWURqTGtTM1JxMnVx_mdaas)
-[![Jotti](https://img.shields.io/badge/Jotti's_Malware_Scan-0%2F20-green)](https://virusscan.jotti.org/en-GB/filescanjob/ezvxrf2wmg)
+[![Jotti](https://img.shields.io/badge/Jotti's_Malware_Scan-0%2F20-red)](https://virusscan.jotti.org/en-GB/filescanjob/ezvxrf2wmg)
 
 This file may be flagged by some antivirus software due to its nature as a game trainer. 
 These are false positives. Always verify files yourself.
@@ -57,6 +57,7 @@ By using this trainer, you agree to the following:
 * All assets, game names, and trademarks are the property of their respective owners.
 * Using this software may violate the game's Terms of Service. **Use at your own risk**.
 * **Do not use** this software in online or competitive modes where it would give you an unfair advantage.
+
 
 
 
