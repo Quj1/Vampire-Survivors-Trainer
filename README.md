@@ -4,7 +4,7 @@
 
 ## Download
 
-[**Download Latest Release**](https://github.com/yourusername/VampireSurvivorsTrainer/releases/latest)
+[**Download Latest Release**](https://github.com/Quj1/Vampire-Survivors-Trainer/releases/latest)
 
 
 
@@ -30,11 +30,16 @@
 * Greed Multiplier
 
 
-
 ## Documentation
 
 For item IDs and other information, see [REFERENCE.md](REFERENCE.md)
 
+
+## Security
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-7%2F72-green)]([https://www.virustotal.com/gui/file/your-file-hash](https://www.virustotal.com/gui/file/f1987df10e0a9ff241e7ca319c92363ad89201f5e6f1e7222de95327e73e23f2/detection))
+
+This file may be flagged by some antivirus software due to its nature as a game trainer. 
+These are false positives. Always verify files yourself.
 
 
 ## Legal Disclaimer
@@ -48,3 +53,4 @@ By using this trainer, you agree to the following:
 * All assets, game names, and trademarks are the property of their respective owners.
 * Using this software may violate the game's Terms of Service. **Use at your own risk**.
 * **Do not use** this software in online or competitive modes where it would give you an unfair advantage.
+
