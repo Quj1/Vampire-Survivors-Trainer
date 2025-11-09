@@ -28,6 +28,8 @@
 * Cooldown Multiplier
 * Area Multiplier
 * Greed Multiplier
+* Curse Multiplier
+* Amount Multiplier
 
 
 ## Documentation
@@ -53,4 +55,5 @@ By using this trainer, you agree to the following:
 * All assets, game names, and trademarks are the property of their respective owners.
 * Using this software may violate the game's Terms of Service. **Use at your own risk**.
 * **Do not use** this software in online or competitive modes where it would give you an unfair advantage.
+
 
